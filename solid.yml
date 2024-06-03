@@ -1,0 +1,6 @@
+SOLID:
+  block 1: "Нарушение принципа открытости/закрытости (Open/Closed Principle)"
+  block 2: "Нарушение принципа единственной ответственности (Single Responsibility Principle)"
+  block 3: "Нарушение принципа единственной ответственности (Single Responsibility Principle)"
+  block 4: "Нарушение принципа инверсии зависимостей (Dependency Inversion Principle)"
+  block 5: "Нарушение принципа Liskov Substitution Principle"
